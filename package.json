@@ -35,7 +35,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@deno/kv": "^0.6.1",
+		"@deno/kv": "^0.7.0",
 		"dayjs": "^1.11.10",
 		"flowbite": "^2.2.1",
 		"flowbite-svelte": "^0.44.20",
