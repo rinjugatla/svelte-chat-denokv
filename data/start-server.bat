@@ -1,0 +1,1 @@
+denokv --sqlite-path "test.sqlite" serve --access-token "410da006-9d5a-11ee-8c90-0242ac120002"
